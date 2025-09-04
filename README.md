@@ -25,5 +25,6 @@ npm i
 ```
 npm run dev
 ```
+5. Go to http://localhost:5173 in your browser
 
 
